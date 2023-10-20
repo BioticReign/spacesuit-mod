@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Space Suit Mod" modversion="0.1" corepackage="False">
+    <Item file="%ModDir%/xml/spacesuit.xml" />
+    <Other file="%ModDir%/images/headgearlos.png" />
+    <Other file="%ModDir%/images/LosIcon.png" />
+    <Other file="%ModDir%/images/reg_SpaceSuitLos.png" />
+    <Other file="%ModDir%/images/SpaceSuitLos_Item.png" />
+    <Other file="%ModDir%/images/StatusMonitorUI.png" />
+    <Other file="%ModDir%/images/SpaceSuitCabinet.png" />
+    <Other file="%ModDir%/sounds/ITEMS.ogg" />
+    <Other file="%ModDir%/sounds/Los.ogg" />
+</contentpackage>
